@@ -1,1 +1,1 @@
-# Big-data-projects
+# Live data project using Kafka
