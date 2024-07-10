@@ -1,1 +1,3 @@
-venv-kafka-project-1/
+myenv/
+__pycache__/
+.env
